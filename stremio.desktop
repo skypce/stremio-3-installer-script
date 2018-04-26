@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Strem.io
+Comment=Watch instantly All the Video Content You Enjoy in One Place
+Exec=/opt/stremio/Stremio.sh %F
+Terminal=false
+Type=Application
+Icon=stremio
+Categories=Player;
+StartupNotify=true
