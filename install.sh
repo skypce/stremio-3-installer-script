@@ -6,4 +6,4 @@ curl -SO# https://raw.githubusercontent.com/skypce/stremio-3-installer-script/ma
 mv stremio.svg /opt/stremio/
 curl -SO# https://raw.githubusercontent.com/skypce/stremio-3-installer-script/master/stremio.desktop
 mv stremio.desktop /usr/share/applications/
-rm Stremio3.6.5.linux.tar.gz
+
