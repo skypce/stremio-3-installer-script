@@ -21,7 +21,7 @@ sudo ./install.sh
 ```
 ## Usage example
 
-The script will create the application launcher in /usr/share/applications, you can find it in the AudioVideo, Player or Video category. Stremio 3 works fine and do not sleep the screen.
+The script will create the application launcher in /usr/share/applications, you can find it in the AudioVideo, Player or Video category. Stremio 3, works fine and do not sleep the screen.
 ## Release History
 
 * 0.1

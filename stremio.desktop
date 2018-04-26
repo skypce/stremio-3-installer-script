@@ -5,5 +5,5 @@ Exec=/opt/stremio/Stremio.sh %F
 Terminal=false
 Type=Application
 Icon=/opt/stremio/stremio.svg
-Categories=Player;
+Categories=AudioVideo;Player;Video;
 StartupNotify=true
